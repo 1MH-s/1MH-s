@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1MH-s
+- 👋 Hi, I’m Mohammad Sameer M AbdAllah AlBarghothy
 - 👀 I’m interested in programming, chess, video games, health.
 - 🌱 I’m currently learning Flutter, and I am a computer science student.
 - 💞️ I’m looking to collaborate on myself (right now).
