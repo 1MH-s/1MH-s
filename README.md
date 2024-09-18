@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1MH-s
-- 👀 I’m interested in programing, chess, video games, health.
-- 🌱 I’m currently learning c++, and I am a student of computer science.
+- 👀 I’m interested in programming, chess, video games, health.
+- 🌱 I’m currently learning Flutter, and I am a computer science student.
 - 💞️ I’m looking to collaborate on myself (right now).
 - 📫 How to reach me ... only here.
 
